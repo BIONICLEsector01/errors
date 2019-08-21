@@ -23,7 +23,7 @@
     <div id="speech">We're trying to figure out how to get through this rock layer and mine more facts and images.</div>
     <div id="button-container">
       <a class="button" href="/" onclick="">Home</a>
-      <a class="button" href="/wiki/Special:Random" onclick="">Random article</a>
+      <a class="button" href="https://twitter.com/AskBS01" onclick="">@AskBS01 on Twitter</a>
     </div>
   </div>
 
